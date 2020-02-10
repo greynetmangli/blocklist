@@ -75,6 +75,9 @@ msnbot-65-55-108-23.search.msn.com
 vortex-bn2.metron.live.com.nsatc.net
 vortex-cy2.metron.live.com.nsatc.net
 cds26.ams9.msecn.net
+pricelist.skype.com
+b.rad.msn.com
+a-msedge.net
 
 http://windowsupdate.microsoft.com	
 https://*.windowsupdate.microsoft.com	
