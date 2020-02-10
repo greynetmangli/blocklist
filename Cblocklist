@@ -69,14 +69,19 @@
 0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com
+0.0.0.0 a.rad.msn.com
+0.0.0.0 i1.services.social.microsoft.com.nsatc.net
+0.0.0.0 msnbot-65-55-108-23.search.msn.com
+0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
+0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
 
-	http://windowsupdate.microsoft.com	
-	https://*.windowsupdate.microsoft.com	
-	http://*.update.microsoft.com	
-	https://*.update.microsoft.com	
-	http://*.windowsupdate.com	
-	http://download.windowsupdate.com	
-	https://download.microsoft.com	
-	http://wustat.windows.com	
-	http://ntservicepack.microsoft.com	
-	http://go.microsoft.com
+http://windowsupdate.microsoft.com	
+https://*.windowsupdate.microsoft.com	
+http://*.update.microsoft.com	
+https://*.update.microsoft.com	
+http://*.windowsupdate.com	
+http://download.windowsupdate.com	
+https://download.microsoft.com	
+http://wustat.windows.com	
+http://ntservicepack.microsoft.com	
+http://go.microsoft.com
