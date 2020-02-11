@@ -78,3 +78,10 @@ pricelist.skype.com
 b.rad.msn.com
 a-msedge.net
 ctldl.windowsupdate.com
+arc.msn.com
+officecdn.microsoft.com
+config.edge.skype.com
+officecdn.microsoft.com.edgesuite.net
+login.live.com
+mrodevicemgr.officeapps.live.com
+nexusrules.officeapps.live.com
