@@ -84,4 +84,4 @@ config.edge.skype.com
 officecdn.microsoft.com.edgesuite.net
 login.live.com
 mrodevicemgr.officeapps.live.com
-nexusrules.officeapps.live.com
+officeclient.microsoft.com
