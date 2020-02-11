@@ -78,8 +78,7 @@ cds26.ams9.msecn.net
 pricelist.skype.com
 b.rad.msn.com
 a-msedge.net
-googleadservices.com
-*.doubleclick.net
+
 
 http://windowsupdate.microsoft.com	
 https://*.windowsupdate.microsoft.com	
