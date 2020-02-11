@@ -199,3 +199,9 @@ apps.corel.com
 product.corel.com
 secure.piriform.com
 secure.piriform.com/*
+officecdn.microsoft.com.edgesuite.net
+mrodevicemgr.officeapps.live.com
+autoupdate.geo.opera.com
+updates-cdn.bravesoftware.com
+config.edge.skype.com
+login.live.com
