@@ -77,3 +77,4 @@ cds26.ams9.msecn.net
 pricelist.skype.com
 b.rad.msn.com
 a-msedge.net
+ctldl.windowsupdate.com
