@@ -62927,3 +62927,15 @@ az361816.vo.msecnd.net
 az512334.vo.msecnd.net
 www.cdzifdzftkmfof.com
 www.esundpxbixeqgu.com
+shoppinglifestyle.biz
+*.shoppinglifestyle.biz
+1.shoppinglifestyle.biz
+www.shoppinglifestyle.com
+www.caloriemania.com
+ycczhbzoyseg.com
+www.ycczhbzoyseg.com
+www.g2a.com
+images.g2a.com
+appgw-ai.g2a.com
+*.amazonaws.com
+gm1ijrybe5.execute-api.us-east-1.amazonaws.com
