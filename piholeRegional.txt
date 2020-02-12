@@ -62940,3 +62940,4 @@ appgw-ai.g2a.com
 *.amazonaws.com
 gm1ijrybe5.execute-api.us-east-1.amazonaws.com
 q.stripe.com
+adclick.g.doubleclick.net
