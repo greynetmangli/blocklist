@@ -85,3 +85,4 @@ officecdn.microsoft.com.edgesuite.net
 login.live.com
 mrodevicemgr.officeapps.live.com
 officeclient.microsoft.com
+msftncsi.com
