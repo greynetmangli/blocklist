@@ -194,6 +194,12 @@ activate-sea.adobe.de
 wwis-dubc1-vip60.adobe.de
 activate-sjc0.adobe.de
 hl2rcv.adobe.de
+nero.com
+www.nero.com
+activate.nero.com
+www.activate.nero.com
+nero.de
+www.nero.de
 mc.corel.com
 apps.corel.com
 product.corel.com
@@ -202,3 +208,6 @@ secure.piriform.com/*
 autoupdate.geo.opera.com
 updates-cdn.bravesoftware.com
 upload.ebz.epson.net
+validation.sls.microsoft.com
+activate.nero.de
+www.activate.nero.de
